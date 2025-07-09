@@ -132,23 +132,6 @@ We built a production-ready AWS pipeline for synthetic healthcare data, ensuring
 
 ---
 
-### 👥 Team Synthea002
-- Manav Gupta (I10204)
-- Tamanna (I10206)
-- Lakshya Gupta (I10217)
-- Devang Sethi (I10183)
-
----
-
-## 📁 Folder Structure
-
-```
-📂 S3 Bucket
-├── source/
-├── raw/
-├── staging/
-├── athena-results/
-```
 
 ## 🔗 Useful Links
 - [Synthea GitHub](https://github.com/synthetichealth/synthea)
